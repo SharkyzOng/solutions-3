@@ -1984,11 +1984,12 @@ end)
          library.AnimatedText = Value
      end})
      uisettings:addDivider()
-     uisettings:addLabel({text = "Credits: @lksiwjas."})
-     uisettings:addLabel({text = "Everything Created by @lksiwjas."})
-     uisettings:addLabel({text = "Supports Solara WOWZERS"})
+     uisettings:addLabel({text = "This script is funneh :3"})
+     uisettings:addLabel({text = "I don't remember who made it"})
+     uisettings:addLabel({text = "Supports Solara tho :0 WOWZERS"})
      uisettings:addLabel({text = "Best Solara script so far #2"})
-     uisettings:addLabel({text = "but swimhub is #1 has a good instant hit :)"})
+     uisettings:addLabel({text = "If ur finna spend money buy swimhub:)"})
+     uisettings:add:Label({text = "Also im am randomly adding to this script and idek what im doin :>"})
 
 
  end
