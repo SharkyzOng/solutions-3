@@ -13,12 +13,12 @@ local enables = {
         bprediction = false
     },
     misc = {
-        bhop = false, -- Allows you to spam jump
-        speed_hack = false, -- Literrally speed hacks lol
-        amongus = false, -- I still don't understand what this is lmao
-        zoom = false, -- How much you zoom in
-        spin = false, -- Just spins your character
-        spin_value = 0, -- How fast you spin
+        bhop = false,
+        speed_hack = false,
+        amongus = false,
+        zoom = false,
+        spin = false,
+        spin_value = 0,
         water_float = false
     },
     debug = {
