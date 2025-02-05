@@ -13,12 +13,12 @@ local enables = {
         bprediction = false
     },
     misc = {
-        bhop = false,
-        speed_hack = false,
-        amongus = false,
-        zoom = false,
-        spin = false,
-        spin_value = 0,
+        bhop = false, -- Allows you to spam jump
+        speed_hack = false, -- Literrally speed hacks lol
+        amongus = false, -- I still don't understand what this is lmao
+        zoom = false, -- How much you zoom in
+        spin = false, -- Just spins your character
+        spin_value = 0, -- How fast you spin
         water_float = false
     },
     debug = {
@@ -351,7 +351,7 @@ end
     Size = 13,
     Color = Color3.new(0.952941, 0.356863, 0.874510),
     Transparency = 1,
-    Text = "anti.solutions",
+    Text = "Stop Hacking Thomas",
     Center = true,
     Outline = true,
     Position = Vector2.new(centerofscreen.X, (centerofscreen + Vector2.new(0, 40)).Y)
